@@ -5,20 +5,29 @@
     <img src="https://komarev.com/ghpvc/?username=AbdullahDhrubo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
-I am an AI Engineer at HCL Technologies Sweden AB and a Data Science graduate from Dalarna University. I’m passionate about building state-of-the-art AI applications and exploring advanced Machine Learning techniques—particularly in the realms of reinforcement learning,  agentic frameworks, knowledge graphs, and MLOps.
+**AI Engineer** @ HCL Technologies Sweden AB | **MSc in Data Science** (Dalarna University)  
+Passionate about designing state-of-the-art AI systems with a focus on **agentic frameworks**, **reinforcement learning**, and **production-grade MLOps pipelines**.
 
-🔭 **Currently Working On:**  
-I am actively developing innovative AI applications, focusing on LLMs and robust AI deployment strategies. My current projects include building full-stack applications that integrate advanced LLMs (like GPT, Llama, Deepseek, Grok) and RAG (Retrieval-Augmented Generation) applications.
+🔭 **Currently Building**  
+- Full-stack LLM applications (GPT, Llama, Deepseek, Grok)  
+- Enterprise RAG systems with custom knowledge integration  
+- AI deployment architectures for scalable inference
 
-💬 **Ask Me About:**  
-Deploying AI applications, fine-tuning AI models.
+💡 **Core Expertise**  
+- LLM Orchestration: Fine-tuning (SFT, RLHF), RAG optimization, model quantization  
+- MLOps: CI/CD pipelines, model monitoring, Kubernetes deployment  
+- NLP: Transformers, spaCy, LangChain, prompt engineering  
+- Cloud AI: Azure AI Services, Databricks, AWS SageMaker  
 
-🌱 **Currently Learning:**  
-Expanding my skills in deploying and fine-tuning AI models using cutting-edge frameworks. This includes mastering different RAG pipelines and fine-tuning models like DeepSeek, Mistral, Zephyr Qwen, and Llama 3 for specific business domains.
+🌱 **Sharpening My Skills**  
+- Advanced RAG patterns: Hybrid search, multi-agent query routing  
+- Low-rank adaptation (LoRA) for domain-specific LLMs (Mistral, Qwen, Llama 3)  
+- GPU-optimized serving with Triton Inference Server  
 
-- 🌱 I’m an expert in **AI, Statistical Learning, Machine Learning, Deep Learning, Natural Language Processing, and Large Language Models**
-
-- 💬 Ask me about **AI, NLP, Cloud Data Engineering**
+💬 **Let's Discuss**  
+- Turning POCs into production systems  
+- Cost-performance tradeoffs in LLM deployment  
+- Knowledge graph-driven AI architectures 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
