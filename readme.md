@@ -1,17 +1,43 @@
 <h1 align="center">Hi there, I'm Dhrubo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-<h3 align="center">AI Engineer | Data Scientist | Data Engineer </h3>
+<h3 align="center">Software Engineer | Data Engineer | Data Scientist </h3>
 
-<p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=AbdullahDhrubo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-</p>
+<div align="center">
 
-**AI Engineer** @ HCL Technologies Sweden AB | **MSc in Data Science** (Dalarna University)  
-Passionate about designing state-of-the-art AI systems with a focus on **agentic frameworks**, **reinforcement learning**, and **production-grade MLOps pipelines**.
+**Software Engineer** @ [HCL Technologies Sweden AB](https://www.hcltech.com/geo-presence/sweden) | **MSc in Data Science** @ [Dalarna University](https://www.du.se/en/study-at-du/programmes-courses-and-course-packages/programmes/data-science-masters-programme/)
+
+</div>
+
+Known for combining deep expertise in data and AI with genuine passion, I turn complex challenges into solutions that truly make a difference. I'm passionate about leveraging data to solve complex business challenges and drive innovation. My expertise spans across the entire data ecosystem:
+
+- **Data Engineering & Architecture** 🚀  
+  Building robust data pipelines, constructing Delta tables, and designing scalable lakehouse architectures.
+
+- **Data Analytics & Business Intelligence** 📊  
+  Transforming raw data into actionable insights through comprehensive analysis, business intelligence, and efficient data warehousing.
+
+- **Data Modeling & Quality** 🔍  
+  Developing solid data models while ensuring high data quality for enhanced decision-making.
+
+- **Machine Learning & Deep Learning** 🤖  
+  Applying advanced techniques like feature engineering, hyperparameter optimization, and deep learning to build predictive models.
+
+- **Advanced AI Orchestration** 🌟  
+  Specializing in LLM, VLM orchestration—including fine-tuning (SFT, RLHF), RAG optimization & model quantization.
+
+- **DevOps & MLOps** ⚙️  
+  Ensuring seamless deployment and scalability through containerization, orchestration, and streamlined DevOps/MLOps practices.
+
+- **Collaboration & Innovation** 💡  
+  Leveraging platforms like GitHub to drive continuous improvement and stay at the forefront of technology.
+___________________________________________________
+
+### My Journey in AI, Data Science & Engineering 🚀
+
 
 🔭 **Currently Building**  
-- Full-stack LLM applications (GPT, Llama, Deepseek, Grok)  
-- Enterprise RAG systems with custom knowledge integration  
-- AI deployment architectures for scalable inference
+- Architecting next-generation data pipelines that integrate Delta Lake with modern lakehouse architectures.
+- Developing advanced machine learning models for real-time analytics and business process automation.
+- Pioneering robust AI orchestration workflows, including fine-tuning large language models, optimizing RAG strategies & full-stack AI applications.
 
 💡 **Core Expertise**  
 - LLM Orchestration: Fine-tuning (SFT, RLHF), RAG optimization, model quantization  
@@ -29,6 +55,8 @@ Passionate about designing state-of-the-art AI systems with a focus on **agentic
 - Cost-performance tradeoffs in LLM deployment  
 - Knowledge graph-driven AI architectures 
 
+Let's build the future with data-driven solutions!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:abdullahdhrubo@live.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/452067/ms-outlook.svg" alt="Dhrubo" height="30" width="40" /></a>
@@ -42,6 +70,8 @@ Passionate about designing state-of-the-art AI systems with a focus on **agentic
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
   <a href="https://www.r-project.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="java" width="40" height="40"/> </a>
+    
   <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="40" height="40"/></a>
 
 <h4 align="left">Data Science & ML:</h4>
@@ -81,7 +111,7 @@ Passionate about designing state-of-the-art AI systems with a focus on **agentic
   <!-- DevOps -->
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.terraform.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.terraform.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" width="80" height="40"/></a>
   <a href="https://kubernetes.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/></a>
 
 <h4 align="left">BI & Visualization:</h4> 
@@ -91,8 +121,8 @@ Passionate about designing state-of-the-art AI systems with a focus on **agentic
   <a href="https://ggplot2.tidyverse.org/" target="_blank"><img src="https://ggplot2.tidyverse.org/logo.png" width="40" height="40"/></a>
   <a href="https://plotly.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/5997976?v=4" width="40" height="40"/></a>
 
-  
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahDhrubo&show_icons=true&locale=en&layout=compact" alt="AbdullahDhrubo" /></p>
 
@@ -100,3 +130,6 @@ Passionate about designing state-of-the-art AI systems with a focus on **agentic
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahDhrubo&" alt="AbdullahDhrubo" /></p>
 
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=AbdullahDhrubo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+</p>
