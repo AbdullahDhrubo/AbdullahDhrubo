@@ -7,6 +7,10 @@
 
 </div>
 
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=AbdullahDhrubo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+</p>
+
 Known for combining deep expertise in data and AI with genuine passion, I turn complex challenges into solutions that truly make a difference. I'm passionate about leveraging data to solve complex business challenges and drive innovation. My expertise spans across the entire data ecosystem:
 
 - **Data Engineering & Architecture** 🚀  
@@ -29,10 +33,8 @@ Known for combining deep expertise in data and AI with genuine passion, I turn c
 
 - **Collaboration & Innovation** 💡  
   Leveraging platforms like GitHub to drive continuous improvement and stay at the forefront of technology.
-___________________________________________________
-
+___
 ### My Journey in AI, Data Science & Engineering 🚀
-
 
 🔭 **Currently Building**  
 - Architecting next-generation data pipelines that integrate Delta Lake with modern lakehouse architectures.
@@ -62,6 +64,8 @@ Let's build the future with data-driven solutions!
 <a href="mailto:abdullahdhrubo@live.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/452067/ms-outlook.svg" alt="Dhrubo" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abdullahdhrubo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dhrubo" height="30" width="40" /></a>
 </p>
+
+___
 
 <h3 align="left">Tech stack:</h3>
 <p align="left">
@@ -127,8 +131,4 @@ Let's build the future with data-driven solutions!
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdullahDhrubo&show_icons=true&locale=en" alt="AbdullahDhrubo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahDhrubo&" alt="AbdullahDhrubo" /></p>
 
-<p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=AbdullahDhrubo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-</p>
