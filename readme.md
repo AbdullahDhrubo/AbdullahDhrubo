@@ -3,7 +3,7 @@
 
 <div align="center">
 
-**Software Engineer** @ [HCL Technologies Sweden AB](https://www.hcltech.com/geo-presence/sweden) | **MSc in Data Science** @ [Dalarna University](https://www.du.se/en/study-at-du/programmes-courses-and-course-packages/programmes/data-science-masters-programme/)
+**Software Engineer (AI)** @ [HCL Technologies Sweden AB](https://www.hcltech.com/geo-presence/sweden) | **MSc in Data Science** @ [Dalarna University](https://www.du.se/en/study-at-du/programmes-courses-and-course-packages/programmes/data-science-masters-programme/)
 
 </div>
 
